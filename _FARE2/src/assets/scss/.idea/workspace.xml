@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b57725f-9b49-45d0-b36c-cf0fca524a17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../api/temp.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../components/cards/PloggCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../components/cards/card.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/404/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/about/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/login/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/[id]/details.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/archive.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/AAA/BillingForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/AAA/Checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/AAA/Checkout.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/AAA/InputBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/AAA/OrderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/AAA/SingleOrder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/plogg/insert/insert.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pages/user/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/layout/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/layout/Layout.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/layout/MainNavigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/layout/MainNavigation.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/MeetupDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/MeetupDetail.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/MeetupItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/MeetupItem.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/MeetupList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/MeetupList.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/NewMeetupForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/meetups/NewMeetupForm.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/ui/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../components/ui/Card.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pages/[meetupId]/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pages/api/new-meetup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../api/new-meetup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pages/new-meetup/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../../../public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="26euQiL3GVUbiW5SshVF5gqawcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b57725f-9b49-45d0-b36c-cf0fca524a17" name="Changes" comment="" />
+      <created>1647796359000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647796359000</updated>
+      <workItem from="1647796360164" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
